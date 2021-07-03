@@ -1,0 +1,5 @@
+classes= 6
+train  = build/darknet/x64/data/tfg_train.txt
+valid  = build/darknet/x64/data/tfg_valid.txt
+names = build/darknet/x64/data/tfg.names
+backup = backup/
